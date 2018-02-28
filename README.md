@@ -27,7 +27,8 @@ If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 ```
 
-## Arabic 
+## Arabic: 
+Title: روح البايثون
 ```
 الجميل خير من القبيح
 الصريح خير من المستتر
