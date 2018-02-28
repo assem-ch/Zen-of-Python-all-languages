@@ -1,4 +1,7 @@
-# The Zen of Python
+# The Zen of Python in all languages
+This is an initiative to list tranlations for [the Zen of Python](https://www.python.org/dev/peps/pep-0020/) in different languages. 
+The Zen of Python is a collection of 20 software principles that influences the design of Python Programming Language —only 19 of which were written down—around June 1999 by Tim Peters. The principal text is released into public domain.
+
 
 ## English (Original) 
 
